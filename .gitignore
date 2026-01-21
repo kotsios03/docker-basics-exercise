@@ -1,0 +1,12 @@
+# OS/Editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node (if present)
+node_modules/
