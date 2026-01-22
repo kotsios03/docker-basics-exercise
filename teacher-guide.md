@@ -2,11 +2,11 @@
 
 Suggested flow (45–60 min):
 
-1) 5–10 min — Explain images vs. containers and the goals
-2) 10–15 min — Students complete Tasks 1–2 (install, build, run)
-3) 10–15 min — Students complete Tasks 3–4 (volumes, env)
-4) 10–15 min — Students complete Tasks 5–6 (logs/cleanup, push)
-5) 5 min — Debrief: reproducibility, tags, cleanup routines
+1) 5–10 min — Explain images vs. containers with simple analogies (image = recipe, container = cake) and state the goals.
+2) 10–15 min — Students complete Tasks 1–2 (install, build, run).
+3) 10–15 min — Students complete Tasks 3–4 (volumes, env).
+4) 10–15 min — Students complete Tasks 5–6 (logs/cleanup, push).
+5) 5 min — Debrief: reproducibility, tags, cleanup routines.
 
 Rubric (10 points):
 
@@ -18,5 +18,5 @@ Rubric (10 points):
 
 Tips:
 
-- Encourage clear naming and tagging
-- If push is blocked by classroom network, allow local-only completion
+- Encourage clear naming and tagging; call out what each command does before students run it.
+- If push is blocked by the classroom network, allow local-only completion.
